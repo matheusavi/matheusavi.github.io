@@ -1,0 +1,12 @@
+{
+  "name": "Beyond Health",
+  "version": "0.0.1",
+  "manifest_version": 1,
+  "action": {
+    "title": "Beyond health",
+    "height": 600,
+    "width": 400,
+    "icon": "https://matheusavi.github.io/icon.svg",
+    "popover": "https://matheusavi.github.io/index.html"
+  }
+}
